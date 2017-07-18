@@ -1,3 +1,3 @@
 # Python
 
-A collection of functions and methods that accomplish useful tasks. 
+A collection of methods and functions that perform helpful tasks.
